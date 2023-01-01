@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178383008654",
+    "project_id": "fir-app-three",
+    "storage_bucket": "fir-app-three.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178383008654:android:189f09b4728213a11beadf",
+        "android_client_info": {
+          "package_name": "com.example.gamma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178383008654-4btk602occa49pkencqede31gmvnjmc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KWk7YSrLRmuxuaGX6Qf2JOIngcKvPxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178383008654-4btk602occa49pkencqede31gmvnjmc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
